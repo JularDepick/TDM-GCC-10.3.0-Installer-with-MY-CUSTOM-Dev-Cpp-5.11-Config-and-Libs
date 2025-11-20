@@ -5,6 +5,7 @@
 
 ## 适用于
 - Windows_x64
+- C/C++ 语言
 
 ## Releases中含有:
 - 打包安装器.exe，运行时建议安装到独立的目录 D:/TDM_GCC 下。
@@ -26,6 +27,7 @@
   - Profile
   - Release-GUI
 - 如果只想要编译器配置，则只需复制文件 devcpp.ini 内容中的 [CompilerSets_0] 到 [CompilerSets_3] 标签内容到对应的Dev-Cpp-5.11配置文件即可
+- 我强烈推荐您使用我的编译器配置，经过我打磨其参数后，它们变得相当适用于开发，且高效简洁。
 ## 编译器资源包来源
 - https://github.com/jmeubank/tdm-gcc/releases/tag/v10.3.0-tdm64-2
 
