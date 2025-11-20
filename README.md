@@ -1,5 +1,8 @@
 # TDM-GCC-10.3.0-Installer-with-MY-CUSTOM-Dev-Cpp-5.11-Config-and-Libs
 
+## 初衷
+- 原版的 Dev-Cpp-5.11 具有较好的简洁性，但编译器版本较低，于是我创建了这个仓库，整合Dev-Cpp-5.11编辑器和高版本编译器，不过没有实现一键安装到位，仍需要开发者手动操作配置。
+
 ## 适用于
 - Windows_x64
 
