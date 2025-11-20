@@ -6,7 +6,7 @@
 ## 适用于
 - Windows_x64
 
-## Release中含有:
+## Releases中含有:
 - 打包安装器.exe，运行时建议安装到独立的目录 D:/TDM_GCC 下。
 - 资源包.zip，建议解压到独立的目录 D:/TDM_GCC 下。
 - Dev-Cpp-5.11安装包.exe
